@@ -11,6 +11,3 @@ This project implements and evaluates four reinforcement learning algorithms—D
 - Reward and loss visualization using Matplotlib
 - Models, logs, and plots organized and ignored via `.gitignore`
 - Git LFS used for tracking large CSV log files
-
-## Project Structure
-
