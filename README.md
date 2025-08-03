@@ -1,4 +1,4 @@
-# PrEP Distribution RL Benchmark
+# PrEP Distribution RL
 
 This project implements and evaluates four reinforcement learning algorithms—DQN, REINFORCE, A2C, and PPO—on a custom environment simulating the equitable distribution of Pre-Exposure Prophylaxis (PrEP) across regions in South Africa. The environment includes real-world constraints such as limited budgets, dose supplies, and region-specific demand profiles.
 
