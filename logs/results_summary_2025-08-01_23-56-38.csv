@@ -1,0 +1,2 @@
+config,mean_reward,std_reward,total_timesteps,timestamp
+best,45000.0,0.0,1000000,2025-08-01_23-56-38
